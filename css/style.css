@@ -163,3 +163,8 @@ footer {
   background-image: url(images/footer-background.png);
   background-size: cover;
 }
+
+
+.on-the-road-again .mdl-card__media {
+  background-image: url('../img/material-1184760_1920.png');
+}
